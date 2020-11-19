@@ -1,0 +1,21 @@
+.notification {
+  transition: 0.3s;
+}
+.notification:hover {
+  transform: scale(1.1);
+  box-shadow: 4px 4px blue;
+  border: 2px solid blue;
+}
+
+.field:hover {
+  transform: scale(1.1);
+  background-color: brgb(43, 226, 128);
+  transition: 0.5s;
+  color: brown;
+}
+
+.button:hover {
+  ransform: scale(1.1);
+  box-shadow: 4px 4px blue;
+  border: 2px solid blue;
+}
